@@ -1,3 +1,7 @@
+# React Game of Life
+
+A completed (slightly modified) version of this tutorial: https://www.youtube.com/watch?v=PM0_Er3SvFQ
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
